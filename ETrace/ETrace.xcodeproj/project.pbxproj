@@ -510,7 +510,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = BV3Q38NYX5;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -525,7 +525,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.linglong.vbox;
 				PRODUCT_NAME = "城市点点看";
 				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE_SPECIFIER = zhDis;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
